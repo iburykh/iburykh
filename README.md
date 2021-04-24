@@ -14,7 +14,7 @@
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/css.png" alt="CSS3" height="40">](https://html5book.ru/css-spravochnik.html)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/js.png" alt="JavaScript" height="40">](https://learn.javascript.ru/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/sass.png" alt="SASS" height="40">](https://sass-lang.com/)
-[<img src="https://github.com/iburykh/iburykh/blob/main/icons/bootstrap.svg" alt="Bootstrap" height="40">](https://getbootstrap.com/)
+[<img src="https://github.com/iburykh/iburykh/blob/main/icons/bootstrap1.svg" alt="Bootstrap" height="40">](https://getbootstrap.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/photoshop.png" alt="Photoshop" height="40">](https://www.adobe.com/ru/products/photoshop.html)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/figma.png" height="40">](https://www.figma.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/zeplin.png" height="40">](https://zeplin.io/)
