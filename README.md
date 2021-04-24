@@ -18,8 +18,8 @@
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/ps.svg" alt="Photoshop" height="40">](https://www.adobe.com/ru/products/photoshop.html)
 [<img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="Zeplin" height="40">](https://zeplin.io/)
 [<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="40">](https://learn.javascript.ru/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40">](https://git-scm.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/gulp.svg" alt="Gulp" height="40">](https://gulpjs.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40">](https://git-scm.com/)
 
 
 **Другие навыки:**
