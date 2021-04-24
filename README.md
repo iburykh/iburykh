@@ -30,7 +30,7 @@
 - [x] Верстка сайтов (HTML5, CSS3)
 - [x] Git и GitHub
 - [x] Gulp
-- [ ] JavaScript (+ES6) (в процессе обучения)
+- [ ] JavaScript (+ES6) **(в процессе обучения)**
 - [ ] React
 - [ ] WordPress
 
