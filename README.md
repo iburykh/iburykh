@@ -11,7 +11,7 @@
 - Планировщик задач Gulp
 
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" height="30">](https://html5book.ru/html-html5/)
-[<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS3" height="30">](https://html5book.ru/css-spravochnik.html)
+[<img src="https://github.com/iburykh/iburykh/blob/main/icons/CSS3.svg" alt="CSS3" height="30">](https://html5book.ru/css-spravochnik.html)
 [<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" height="30">](https://sass-lang.com/)
 [<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="30">](https://getbootstrap.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/ps.png" alt="Photoshop" height="30">](https://www.adobe.com/ru/products/photoshop.html)
