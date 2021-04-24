@@ -19,7 +19,7 @@
 [<img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="Zeplin" height="30">](https://zeplin.io/)
 [<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="30">](https://learn.javascript.ru/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30">](https://git-scm.com/)
-[<img src="https://github.com/iburykh/iburykh/blob/main/icons/gulp1.png" alt="Gulp" height="30">](https://gulpjs.com/)
+[<img src="https://github.com/iburykh/iburykh/blob/main/icons/gulp.svg" alt="Gulp" height="30">](https://gulpjs.com/)
 
 
 **Другие навыки:**
