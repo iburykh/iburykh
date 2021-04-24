@@ -12,12 +12,12 @@
 
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/html.png" alt="HTML5" height="30">](https://html5book.ru/html-html5/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/css_1.png" alt="CSS3" height="30">](https://html5book.ru/css-spravochnik.html)
-[<img src="https://github.com/iburykh/iburykh/blob/main/icons/js.png" alt="JavaScript" height="30">](https://learn.javascript.ru/)
 [<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SASS" height="30">](https://sass-lang.com/)
 [<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="30">](https://getbootstrap.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/ps.png" alt="Photoshop" height="30">](https://www.adobe.com/ru/products/photoshop.html)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30">](https://www.figma.com/)
 [<img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="Zeplin" height="30">](https://zeplin.io/)
+[<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="30">](https://learn.javascript.ru/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30">](https://git-scm.com/)
 [<img src="https://github.com/iburykh/iburykh/blob/main/icons/gulp1.png" alt="Gulp" height="30">](https://gulpjs.com/)
 
